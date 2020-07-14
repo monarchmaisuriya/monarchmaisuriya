@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[[!Developer Illustration](https://cdn.dribbble.com/users/970021/screenshots/4644255/job-banners.png)]
+
+![Developer Illustration](https://cdn.dribbble.com/users/970021/screenshots/4644255/job-banners.png)
 
 [![Monarch's github stats](https://github-readme-stats.vercel.app/api?username=ingeniousambivert)](https://github.com/anuraghazra/github-readme-stats)
 
