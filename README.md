@@ -16,9 +16,7 @@ I enjoy each aspect, & love building websites & applications from start to finis
 
 <br>
 
-[![Monarch's github stats](https://github-readme-stats.vercel.app/api?username=ingeniousambivert)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Monarch's github stats](https://github-readme-stats.vercel.app/api?username=ingeniousambivert&show_icons=true&hide_border=true)
 
 
 
