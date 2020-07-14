@@ -22,7 +22,7 @@ I enjoy each aspect, & love building websites & applications from start to finis
 
 ```javascript
 const monarch = {
-  learned : [Java, Python, C++, C]
+  learned : [Java, Python, C++, C],
   code: [HTML, CSS, Javascript, Typescript, PHP, Dart],
   technology: {
   frameworks : [React, Redux, React-Native, Flutter, Node, Express, Feathers],
