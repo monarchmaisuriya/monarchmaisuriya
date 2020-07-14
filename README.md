@@ -39,8 +39,8 @@ const monarch = {
 <hr>
 
 
-- 📫 _How to reach me : monarchmaisuriya7600@gmail.com
-- 📝 _View my [Resume](https://docs.google.com/document/d/e/2PACX-1vQzExda4Yfc_LDy1hi-Xjx2iYHGufVJ2duF7buYvr2JWLZKMAq6R_v27cFm-zENrUP0vCN1B3hN13Qh/pub)
+📫 How to reach me : monarchmaisuriya7600@gmail.com
+📝 View my [Resume](https://docs.google.com/document/d/e/2PACX-1vQzExda4Yfc_LDy1hi-Xjx2iYHGufVJ2duF7buYvr2JWLZKMAq6R_v27cFm-zENrUP0vCN1B3hN13Qh/pub)
 
 
 
