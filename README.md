@@ -18,7 +18,7 @@ I enjoy each aspect, & love building websites & applications from start to finis
 
 ![Monarch's github stats](https://github-readme-stats.vercel.app/api?username=ingeniousambivert&show_icons=true&hide_border=true)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> A little about my skills 
 
 ```javascript
 const monarch = {
