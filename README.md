@@ -3,12 +3,26 @@
 
 ![Developer Illustration](https://i.ibb.co/DfrvkM9/undraw-solution-mindset-34bi.png)
 
-
-# Monarch Maisuriya
-
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+<p>
+  <em>
+   I am **Monarch**, a self-taught developer from India.
+I am an inquisitive experimenter,And I've always been enthusiastic about technology. My skills are broad from front-end to back-end development.
+I enjoy each aspect, & love building websites & applications from start to finish. <br>
+  </em>  
+</p>
+
+
+<br>
+
 [![Monarch's github stats](https://github-readme-stats.vercel.app/api?username=ingeniousambivert)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 
 
 <!--
