@@ -18,7 +18,7 @@ I enjoy each aspect, & love building websites & applications from start to finis
 
 
 
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> A little about my skills 
+### Most of my skills 
 
 ```javascript
 const monarch = {
