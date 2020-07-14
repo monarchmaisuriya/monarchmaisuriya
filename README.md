@@ -1,7 +1,7 @@
 
 
 
-![Developer Illustration](https://ibb.co/WvVMFzk)
+![Developer Illustration](https://i.ibb.co/DfrvkM9/undraw-solution-mindset-34bi.png)
 ### Hi there 👋
 [![Monarch's github stats](https://github-readme-stats.vercel.app/api?username=ingeniousambivert)](https://github.com/anuraghazra/github-readme-stats)
 
