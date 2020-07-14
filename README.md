@@ -32,6 +32,8 @@ const monarch = {
 ```
 ![Monarch's github stats](https://github-readme-stats.vercel.app/api?username=ingeniousambivert&show_icons=true&hide_border=true)
 
+<hr>
+
 
 - 📫 How to reach me : monarchmaisuriya7600@gmail.com
 - 📝 View my [Resume](https://docs.google.com/document/d/e/2PACX-1vQzExda4Yfc_LDy1hi-Xjx2iYHGufVJ2duF7buYvr2JWLZKMAq6R_v27cFm-zENrUP0vCN1B3hN13Qh/pub)
