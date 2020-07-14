@@ -25,7 +25,7 @@ const monarch = {
   learned : [Java, Python, C++, C],
   code: [HTML, CSS, Javascript, Typescript, PHP, Dart],
   technology: {
-  frameworks : [React, Redux, React-Native, Flutter, Node, Express, Feathers],
+  frameworks : [React, Redux, React-Native, Flutter, Node, Express, Feathers, Flask],
   tools : [Storybook, Styled-Components, VS Code]
   },
   database: {
