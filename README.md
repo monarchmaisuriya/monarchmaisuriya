@@ -23,14 +23,14 @@ I enjoy each aspect, & love building websites & applications from start to finis
 ```javascript
 const monarch = {
   code: [Javascript, Typescript, HTML, CSS, PHP, Dart, Java, Python, C++, C],
-  technology: [{
+  technology: {
   frameworks : [React, Redux, React-Native, Flutter, Node, Express, Feathers],
   tools : [Storybook, Styled-Components,VS Code]
-  }],
-  database: [{
+  },
+  database: {
   NoSQL : "MongoDB",
   SQL : "MySQL"
-  }],
+  },
 }
 ```
 ![Monarch's github stats](https://github-readme-stats.vercel.app/api?username=ingeniousambivert&show_icons=true&hide_border=true)
