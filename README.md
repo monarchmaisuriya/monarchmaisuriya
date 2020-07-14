@@ -21,7 +21,7 @@ I enjoy each aspect, & love building websites & applications from start to finis
 ### Most of my skills 
 
 ```javascript
-const monarch = {
+const skills = {
   learned : [Java, Python, C++, C],
   code: [HTML, CSS, Javascript, Typescript, PHP, Dart],
   technology: {
