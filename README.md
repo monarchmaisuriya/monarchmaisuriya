@@ -23,7 +23,10 @@ I enjoy each aspect, & love building websites & applications from start to finis
 ```javascript
 const monarch = {
   code: [Javascript, Typescript, HTML, CSS, PHP, Dart, Java, Python, C++, C],
-  frameworks_and_tools: [React, Redux, React-Native, Flutter, Node, Express, Feathers, Storybook, Styled-Components,VS Code],
+  technology: [{
+  frameworks : [React, Redux, React-Native, Flutter, Node, Express, Feathers],
+  tools : [Storybook, Styled-Components,VS Code]
+  }],
   database: [{
   NoSQL : "MongoDB",
   SQL : "MySQL"
