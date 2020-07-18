@@ -9,7 +9,7 @@
   <em>
    I am <b>Monarch</b>, a self-taught developer from India.
 I am an inquisitive experimenter, and I've always been enthusiastic about technology. My skills are broad from front-end to back-end development.
-I enjoy each aspect, & love building websites & applications from start to finish. <br>
+I enjoy each aspect, and love building websites and applications from start to finish. <br>
   </em>  
 </p>
 
