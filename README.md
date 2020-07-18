@@ -25,8 +25,8 @@ const skills = {
   learned : [Java, Python, C++, C],
   code: [HTML, CSS, Javascript, Typescript, PHP, Dart],
   technology: {
-    frameworks : [React, Redux, React-Native, Flutter, Node, Express, Feathers, Flask],
-    tools : [Git, Storybook, Styled-Components, VS Code]
+    frameworks : [React, Gatsby, React-Native, Flutter, Node, Express, Feathers, Flask],
+    tools : [Git, Redux, Storybook, Styled-Components, VS Code]
    },
   database: {
     NoSQL : "MongoDB",
