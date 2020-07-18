@@ -21,7 +21,7 @@ I enjoy each aspect, and love building websites and applications from start to f
 ### Most of my skills 
 
 ```javascript
-const skills = {
+let skills = {
   learned : [Java, Python, C++, C],
   code: [HTML, CSS, Javascript, Typescript, PHP, Dart],
   technology: {
