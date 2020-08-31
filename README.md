@@ -22,7 +22,6 @@ I enjoy each aspect, and love building websites and applications from start to f
 
 ```javascript
 let skills = {
-  learned : [Java, Python, C++, C],
   code: [HTML, CSS, Javascript, Typescript, PHP, Dart],
   technology: {
     frameworks : [React, Gatsby, React-Native, Flutter, Node, Express, Feathers, Flask],
@@ -32,6 +31,7 @@ let skills = {
     NoSQL : "MongoDB",
     SQL : "MySQL"
   },
+  others : [Java, Python, C++, C],
 }
 ```
 ![Monarch's github stats](https://github-readme-stats.vercel.app/api?username=ingeniousambivert&show_icons=true&hide_border=true)
