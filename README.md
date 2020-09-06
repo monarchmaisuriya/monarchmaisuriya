@@ -1,21 +1,17 @@
 
 
 
-<img margin="auto" height="300px" width="400px" src="https://i.ibb.co/DfrvkM9/undraw-solution-mindset-34bi.png"/>
+<img margin="auto" src="https://i.ibb.co/DfrvkM9/undraw-solution-mindset-34bi.png"/>
 ### Hello world!
 
 <p>
   <em>
-    I am <a href="about.me/monarchmaisuriya" target="_blank"> <b>Monarch</b></a>, a self-taught developer from India.
+    I am <a href="https://www.about.me/monarchmaisuriya" target="_blank"> <b>Monarch</b></a>, a self-taught developer from India.
 I am an inquisitive experimenter, and I've always been enthusiastic about technology. My skills are broad from front-end to back-end development.
 I enjoy each aspect, and love building websites and applications from start to finish. <br>
   </em>  
 </p>
-
-
 <hr>
-
-
 
 ### Most of my skills 
 
