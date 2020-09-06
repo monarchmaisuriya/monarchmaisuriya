@@ -1,9 +1,9 @@
 
 
 
-<img margin="auto" src="https://i.ibb.co/DfrvkM9/undraw-solution-mindset-34bi.png"/>
+<img margin="auto" height="100px" width="100px" src="https://i.ibb.co/DfrvkM9/undraw-solution-mindset-34bi.png"/>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+###Hello world!
 
 <p>
   <em>
