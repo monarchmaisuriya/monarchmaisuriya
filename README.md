@@ -1,7 +1,8 @@
 
 
 
-<img margin="auto" height="400px" width="400px" src="https://i.ibb.co/DfrvkM9/undraw-solution-mindset-34bi.png"/> ### Hello world!
+<img margin="auto" height="300px" width="400px" src="https://i.ibb.co/DfrvkM9/undraw-solution-mindset-34bi.png"/>
+### Hello world!
 
 <p>
   <em>
