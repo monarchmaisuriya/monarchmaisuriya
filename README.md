@@ -8,7 +8,7 @@
 <p>
   <em>
     I am <a href="https://www.about.me/monarchmaisuriya" target="_blank"> <b>Monarch</b></a>, a self-taught developer from India.
-I am an inquisitive experimenter, and I've always been enthusiastic about technology. My skills are broad from front-end to back-end development.
+I am an inquisitive experimenter, and I've always been enthusiastic about technology. My skills are broad from front-end to back-end development and cross-platform.
 I enjoy each aspect, and love building websites and applications from start to finish. <br>
   </em>  
 </p>
