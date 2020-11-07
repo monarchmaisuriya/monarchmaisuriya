@@ -21,7 +21,7 @@ let skills = {
   code: [HTML, CSS, Javascript, Typescript, PHP, Dart, Python],
   technology: {
     frameworks : [React, Gatsby, React-Native, Flutter, Node, Express, Feathers, Flask, FastAPI],
-    tools : [Git, Redux, Firebase, Storybook, Sass, Styled-Components, EJS, VS Code]
+    tools : [Git, Redux, Firebase, Storybook, Sass, Styled-Components, EJS]
    },
   database: {
     NoSQL : "MongoDB",
