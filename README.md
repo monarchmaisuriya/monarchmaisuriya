@@ -31,8 +31,7 @@ let skills = {
 }
 ```
 ![Monarch's Github Stats](https://github-readme-stats.vercel.app/api?username=ingeniousambivert&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-<hr>
-![Monarch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingeniousambivert&layout=compact&langs_count=10)
+[![Monarch's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingeniousambivert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
