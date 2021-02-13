@@ -25,7 +25,7 @@ let skills = {
    },
   database: {
     NoSQL : "MongoDB",
-    SQL : "MySQL", "PostgreSQL"
+    SQL : "MySQL", "PostgreSQL",
   },
   others : ["Java", "C++", "C"],
 }
