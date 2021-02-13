@@ -18,16 +18,16 @@ I enjoy each aspect, and love building websites and applications from start to f
 
 ```javascript
 let skills = {
-  code: [HTML, CSS, Javascript, Typescript, PHP, Dart, Python],
+  code: ["HTML", "CSS", "Javascript", "Typescript", "PHP", "Dart", "Python"],
   technology: {
-    frameworks : [React, Gatsby, React-Native, Flutter, Node, Express, Feathers, Flask, FastAPI],
-    tools : [Git, Redux, Firebase, Storybook, Sass, Styled-Components, EJS]
+    frameworks : ["React", "Gatsby", "React-Native", "Flutter", "Node", "Express", "Feathers", "Flask", "FastAPI"],
+    tools : ["Git", "Redux", "Firebase", "Storybook", "Sass", "Styled-Components", "EJS", "Jest", "Puppeteer"]
    },
   database: {
     NoSQL : "MongoDB",
-    SQL : "MySQL"
+    SQL : "MySQL", "PostgreSQL"
   },
-  others : [Java, C++, C],
+  others : ["Java", "C++", "C"],
 }
 ```
 ![Monarch's Github Stats](https://github-readme-stats.vercel.app/api?username=ingeniousambivert&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
