@@ -24,8 +24,8 @@ let skills = {
     tools : ["Git", "Redux", "Firebase", "Storybook", "Sass", "Styled-Components", "Jest", "Puppeteer"]
    },
   database: {
-    NoSQL : "MongoDB",
-    SQL : "MySQL", "PostgreSQL",
+    NoSQL : ["MongoDB"],
+    SQL : ["MySQL", "PostgreSQL"],
   },
   others : ["Java", "C++", "C"],
 }
