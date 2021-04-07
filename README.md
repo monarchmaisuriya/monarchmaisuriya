@@ -30,8 +30,9 @@ let skills = {
   others : ["Java", "C++", "C"],
 }
 ```
-![Monarch's Github Stats](https://github-readme-stats.vercel.app/api?username=ingeniousambivert&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-[![Monarch's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingeniousambivert&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Monarch's Github Stats](https://github.com/ingeniousambivert/github-stats/blob/master/generated/overview.svg)
+![Monarch's Top Langs](https://github.com/ingeniousambivert/github-stats/blob/master/generated/languages.svg)
 
 <hr>
 
