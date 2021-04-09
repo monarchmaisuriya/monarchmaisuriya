@@ -38,7 +38,7 @@ let skills = {
 
 
 
-📝 - [Resume](https://docs.google.com/document/d/e/2PACX-1vQzExda4Yfc_LDy1hi-Xjx2iYHGufVJ2duF7buYvr2JWLZKMAq6R_v27cFm-zENrUP0vCN1B3hN13Qh/pub) | :bulb: [Medium articles](https://ingeniousambivert.medium.com/)
+📝 - [Resume](https://docs.google.com/document/d/e/2PACX-1vQslu-y5muQb3KKCsAm8zx7fhZ8CV3ZiA3zWsKcGR1z79byNSH8v4NRD5Fp0XGEcqNLoNNK857T76T-/pub) | :bulb: [Medium articles](https://ingeniousambivert.medium.com/)
 
 📫 - monarchmaisuriya7600@gmail.com | 🔭 - [ingeniousambivert.codes](https://www.ingeniousambivert.codes/)
 
