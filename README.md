@@ -1,7 +1,7 @@
 
 
 
-<img margin="auto" src="https://i.ibb.co/DfrvkM9/undraw-solution-mindset-34bi.png"/>
+<img margin="auto" src="https://i.ibb.co/h29DXtb/w.png"/>
 
 ### Hello world!
 
