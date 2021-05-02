@@ -20,14 +20,13 @@ I enjoy each aspect, and love building websites and applications from start to f
 let skills = {
   code: ["HTML", "CSS", "Javascript", "Typescript", "PHP", "Dart", "Python"],
   technology: {
-    frameworks : ["React", "Gatsby", "React-Native", "Flutter", "Node", "Express", "EJS", "Feathers", "Flask", "FastAPI"],
+    frameworks : ["React", "Next", "React-Native", "Flutter", "Node", "Express", "EJS", "Feathers", "Flask", "FastAPI"],
     tools : ["Git", "Redux", "Firebase", "Storybook", "Sass", "Styled-Components", "Jest", "Puppeteer"]
    },
   database: {
     NoSQL : ["MongoDB"],
     SQL : ["MySQL", "PostgreSQL"],
   },
-  others : ["Java", "C++", "C"],
 }
 ```
 
