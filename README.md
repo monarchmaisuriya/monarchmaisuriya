@@ -14,7 +14,7 @@ I enjoy each aspect, and love building websites and applications from start to f
 </p>
 <hr>
 
-### Most of my skills 
+### I work with 
 
 ```javascript
 let skills = {
