@@ -38,7 +38,7 @@ let skills = {
 
 📝 - [Resume](https://docs.google.com/document/d/e/2PACX-1vQslu-y5muQb3KKCsAm8zx7fhZ8CV3ZiA3zWsKcGR1z79byNSH8v4NRD5Fp0XGEcqNLoNNK857T76T-/pub) | :bulb: [Medium articles](https://ingeniousambivert.medium.com/)
 
-### How to reach me:
+### How to reach me
 
 📫 - monarchmaisuriya7600@gmail.com | 🔭 - [ingeniousambivert.codes](https://www.ingeniousambivert.codes/)
 
