@@ -20,7 +20,7 @@ let skills = {
   code: ["Javascript", "Typescript", "PHP", "Python"],
   technology: {
     frameworks : ["React", "Next", "React-Native", "Flutter", "Node", "Express", "EJS", "Feathers", "Flask", "FastAPI"],
-    tools : ["Git", "Redux", "Firebase", "AWS", "Jest"]
+    tools : ["Git", "Redux", "Firebase", "AWS", "Docker"]
    },
   database: {
     NoSQL : ["MongoDB"],
