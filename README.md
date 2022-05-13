@@ -17,10 +17,10 @@ I enjoy each aspect, and love building websites and applications from start to f
 
 ```javascript
 let skills = {
-  code: ["Javascript", "Typescript", "PHP", "Python"],
+  code: ["Javascript", "Typescript", "Python"],
   technology: {
-    frameworks : ["React", "Next", "React-Native", "Flutter", "Node", "Express", "EJS", "Feathers", "Flask", "FastAPI"],
-    tools : ["Git", "Redux", "Firebase", "AWS", "Docker"]
+    frameworks : ["React", "Next", "React-Native", "Node", "Express", "Feathers", "Flask", "FastAPI"],
+    tools : ["Git", "GraphQL", "Firebase", "AWS", "Docker"]
    },
   database: {
     NoSQL : ["MongoDB"],
