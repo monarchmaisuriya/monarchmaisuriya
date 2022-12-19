@@ -19,8 +19,8 @@ I enjoy each aspect, and love building websites and applications from start to f
 let skills = {
   code: ["Javascript", "Typescript", "Python"],
   technology: {
-    frameworks : ["React", "Next", "React-Native", "Node", "Express", "Feathers", "Flask", "FastAPI"],
-    tools : ["Git", "GraphQL", "Firebase", "AWS", "Docker"]
+    frameworks : ["React", "Next", "React-Native", "Express", "Feathers", "Flask", "FastAPI"],
+    tools : ["Git", "GCP", "AWS", "Docker"]
    },
   database: {
     NoSQL : ["MongoDB"],
