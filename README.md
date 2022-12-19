@@ -40,7 +40,7 @@ let skills = {
 
 ### How to reach me
 
-📫 - monarchmaisuriya7600@gmail.com | 🔭 - [ingeniousambivert.codes](https://www.ingeniousambivert.codes/)
+📫 - monarchmaisuriya7600@gmail.com | 🔭 - [ingeniousambivert](http://ingeniousambivert.vercel.app/)
 
 
 
