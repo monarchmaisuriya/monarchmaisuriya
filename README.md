@@ -17,25 +17,19 @@ I enjoy each aspect, and love building websites and applications from start to f
 
 ```javascript
 let skills = {
-  code: ["Javascript", "Typescript", "Python"],
-  technology: {
-    frameworks : ["React", "Next", "React-Native", "Express", "Feathers", "Flask", "FastAPI"],
-    tools : ["Git", "GCP", "AWS", "Docker"]
+  languages: ["Javascript", "Typescript", "Python"],
+  technologies: {
+    frameworks : ["React", "Next", "React-Native", "Feathers", "Flask", "FastAPI"],
+    tools : ["Jest", "Cypress", "Git", "GCP", "AWS", "Docker"]
    },
-  database: {
-    NoSQL : ["MongoDB"],
+  databases: {
+    NoSQL : ["MongoDB", "Redis"],
     SQL : ["MySQL", "PostgreSQL"],
   },
 }
 ```
 
-![Monarch's Github Stats](https://github.com/ingeniousambivert/github-stats/blob/master/generated/overview.svg)
-
-![Monarch's Top Langs](https://github.com/ingeniousambivert/github-stats/blob/master/generated/languages.svg)
-
-
 <hr>
-
 
 
 📝 - [Resume](https://docs.google.com/document/d/e/2PACX-1vQvIEZ9MHsreLu1uICM5mJAVveYp-Gwe4cCJ328dXm3W7qALVXG6AtIBhEG1efMdJMS2Ck9RgPCkXBL/pub) | 🔭 - [Portfolio](http://ingeniousambivert.vercel.app/)
