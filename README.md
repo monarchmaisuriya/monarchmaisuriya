@@ -38,11 +38,11 @@ let skills = {
 
 
 
-📝 - [Resume](https://docs.google.com/document/d/e/2PACX-1vQvIEZ9MHsreLu1uICM5mJAVveYp-Gwe4cCJ328dXm3W7qALVXG6AtIBhEG1efMdJMS2Ck9RgPCkXBL/pub) | :bulb: [Medium articles](https://ingeniousambivert.medium.com/)
+📝 - [Resume](https://docs.google.com/document/d/e/2PACX-1vQvIEZ9MHsreLu1uICM5mJAVveYp-Gwe4cCJ328dXm3W7qALVXG6AtIBhEG1efMdJMS2Ck9RgPCkXBL/pub) | 🔭 - [Portfolio](http://ingeniousambivert.vercel.app/)
 
 ### How to reach me
 
-📫 - monarchmaisuriya@gmail.com | 🔭 - [ingeniousambivert](http://ingeniousambivert.vercel.app/)
+📫 - monarchmaisuriya@gmail.com 
 
 
 
