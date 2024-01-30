@@ -28,11 +28,11 @@ let skills = {
   },
 }
 ```
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b357290c548122833d8277?variant=light)](https://roadmap.sh)
 
 ![Monarch's Github Stats](https://github.com/ingeniousambivert/github-stats/blob/master/generated/overview.svg)
 
 ![Monarch's Top Langs](https://github.com/ingeniousambivert/github-stats/blob/master/generated/languages.svg)
+
 
 <hr>
 
