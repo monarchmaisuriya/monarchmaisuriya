@@ -17,9 +17,9 @@ I enjoy each aspect, and love building websites and applications from start to f
 
 ```javascript
 let skills = {
-  languages: ["Javascript", "Typescript", "Python"],
+  languages: ["Javascript", "Typescript", "Python", "Go"],
   technologies: {
-    frameworks : ["React", "Next", "React-Native", "Feathers", "Flask", "FastAPI"],
+    frameworks : ["React", "Next", "Remix", "React-Native", "Feathers", "Flask", "FastAPI", "Echo"],
     tools : ["Jest", "Cypress", "Git", "GCP", "AWS", "Docker"]
    },
   databases: {
