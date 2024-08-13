@@ -7,8 +7,7 @@
 
 <p>
   <em>
-    I am <a href="https://www.about.me/monarchmaisuriya" target="_blank"> <b>Monarch</b></a>, a Full-Stack developer and an inquisitive experimenter. I've always been enthusiastic about technology. My skills are broad from front-end to back-end and cross-platform development.
-I enjoy each aspect, and love building websites and applications from start to finish. <br>
+   I'm <a href="https://www.about.me/monarchmaisuriya" target="_blank"> <b>Monarch</b></a>. As a Product Engineer, I dive into everything from front-end to back-end  development, and deployment. I genuinely enjoy every part of the process and get a kick out of building software from the ground up. <br>
   </em>  
 </p>
 <hr>
@@ -19,8 +18,8 @@ I enjoy each aspect, and love building websites and applications from start to f
 let skills = {
   languages: ["Javascript", "Typescript", "Python", "Go"],
   technologies: {
-    frameworks : ["React", "Next", "React-Native", "Feathers", "Flask", "FastAPI", "Fiber"],
-    tools : ["Jest", "Cypress", "Git", "GCP", "AWS", "Docker"]
+    frameworks : ["React", "Next", "Express", "Feathers", "Koa", "Fastify", "Django", "Flask", "FastAPI", "Fiber"],
+    tools : ["Jest", "Mocha", "Chai", "Cypress", "Git", "GCP", "AWS", "Docker", "Kubernetes"]
    },
   databases: {
     NoSQL : ["MongoDB", "Redis"],
@@ -32,11 +31,11 @@ let skills = {
 <hr>
 
 
-📝 - [Resume](https://docs.google.com/document/d/e/2PACX-1vQvIEZ9MHsreLu1uICM5mJAVveYp-Gwe4cCJ328dXm3W7qALVXG6AtIBhEG1efMdJMS2Ck9RgPCkXBL/pub) | 🔭 - [Portfolio](http://ingeniousambivert.vercel.app/)
+📝 - [Resume](https://docs.google.com/document/d/e/2PACX-1vQvIEZ9MHsreLu1uICM5mJAVveYp-Gwe4cCJ328dXm3W7qALVXG6AtIBhEG1efMdJMS2Ck9RgPCkXBL/pub) | 🔭 - [Portfolio](https://ingeniousambivert.github.io/portfolio/)
 
 ### How to reach me
 
-📫 - monarchmaisuriya@gmail.com 
+📫 - <a href="mailto:monarchmaisuriya@gmail.com">monarchmaisuriya@gmail.com</a>
 
 
 
