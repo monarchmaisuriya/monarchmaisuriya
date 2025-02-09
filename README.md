@@ -31,7 +31,7 @@ let skills = {
 <hr>
 
 
-📝 - [Resume](https://docs.google.com/document/d/e/2PACX-1vQvIEZ9MHsreLu1uICM5mJAVveYp-Gwe4cCJ328dXm3W7qALVXG6AtIBhEG1efMdJMS2Ck9RgPCkXBL/pub) | 🔭 - [Portfolio](https://ingeniousambivert.github.io/portfolio/)
+📝 - [Resume](https://docs.google.com/document/d/e/2PACX-1vQvIEZ9MHsreLu1uICM5mJAVveYp-Gwe4cCJ328dXm3W7qALVXG6AtIBhEG1efMdJMS2Ck9RgPCkXBL/pub) | 🔭 - [Portfolio](https://monarchmaisuriya.github.io/portfolio/)
 
 ### How to reach me
 
