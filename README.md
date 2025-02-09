@@ -18,7 +18,7 @@
 let skills = {
   languages: ["Javascript", "Typescript", "Python", "Go"],
   technologies: {
-    frameworks : ["React", "Next", "Express", "Feathers", "Koa", "Fastify", "Django", "Flask", "FastAPI", "Fiber"],
+    frameworks : ["React", "React-Native", "NestJS", "Feathers", "Koa", "Fastify", "Django", "Flask", "FastAPI", "Fiber"],
     tools : ["Jest", "Mocha", "Chai", "Vitest", "Cypress", "Git", "GCP", "AWS", "Docker", "Kubernetes"]
    },
   databases: {
