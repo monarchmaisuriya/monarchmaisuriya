@@ -12,9 +12,10 @@
 </p>
 <hr>
 
-### I work with 
 
 ```javascript
+// I work with the following :
+
 let skills = {
   languages: ["Javascript", "Typescript", "Python", "Go"],
   technologies: {
@@ -26,6 +27,8 @@ let skills = {
     SQL : ["MySQL", "PostgreSQL"],
   },
 }
+
+// And I consistenly learn new things. 
 ```
 
 <hr>
