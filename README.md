@@ -28,7 +28,7 @@ let skills = {
   },
 }
 
-// And I consistenly learn new things. 
+// And I consistently learn new things. 
 ```
 
 <hr>
